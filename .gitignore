@@ -1,0 +1,9 @@
+# Exclude sensitive files and directories
+
+# Virtual environment
+venv/
+
+# Sensitive JSON file
+streamlitgs-0c166fb61174.json
+
+# Ignore any other files and directories as needed
